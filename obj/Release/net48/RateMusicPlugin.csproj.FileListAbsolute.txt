@@ -1,0 +1,9 @@
+/workspaces/mouse-hover-panel-/obj/Release/net48/RateMusicPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mouse-hover-panel-/obj/Release/net48/RateMusicPlugin.AssemblyInfoInputs.cache
+/workspaces/mouse-hover-panel-/obj/Release/net48/RateMusicPlugin.AssemblyInfo.cs
+/workspaces/mouse-hover-panel-/obj/Release/net48/RateMusicPlugin.csproj.CoreCompileInputs.cache
+/workspaces/mouse-hover-panel-/obj/Release/net48/RateMusicPlugin.sourcelink.json
+/workspaces/mouse-hover-panel-/bin/Release/net48/mb_PopUpAlbumInfo.dll
+/workspaces/mouse-hover-panel-/bin/Release/net48/mb_PopUpAlbumInfo.pdb
+/workspaces/mouse-hover-panel-/obj/Release/net48/mb_PopUpAlbumInfo.dll
+/workspaces/mouse-hover-panel-/obj/Release/net48/mb_PopUpAlbumInfo.pdb
